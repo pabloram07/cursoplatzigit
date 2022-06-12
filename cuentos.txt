@@ -5,3 +5,5 @@ introducción: esta es la introducción del cuento.
 Capitulo 1: historia del capitulo 1
 
 Capitulo 2: historia del capitulo 2
+
+Capitulo 3: historial del capitulo 3
